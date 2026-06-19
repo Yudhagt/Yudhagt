@@ -12,16 +12,16 @@
 
 ---
 
-```javascript
-const yudhagt = {
-  name: "Dimas Yudha",
-  title: "Fullstack Web Developer",
-  location: "Indonesia",
-  interests: ["Web Development", "UI/UX Design", "Open Source"],
-  currentlyLearning: ["Laravel", "Vue.js", "Database Optimization"],
-  funFact: "Suka ngoding sambil dengerin musik 🎧"
-};
-```
+<h2 align="center">👋 Hello! I'm Dimas Yudha</h2>
+
+<p align="center">
+  <b>Fullstack Web Developer</b> from <b>Indonesia</b> 🇮🇩
+  <br/><br/>
+  🔭 Currently building web apps with <b>PHP</b> & <b>JavaScript</b><br/>
+  🌱 Learning <b>Laravel</b>, <b>Vue.js</b> & <b>Database Optimization</b><br/>
+  💡 Interested in <b>Web Development</b>, <b>UI/UX Design</b> & <b>Open Source</b><br/>
+  ⚡ Fun fact: Suka ngoding sambil dengerin musik 🎧
+</p>
 
 <h2 align="center">⚡ Tech Stack ⚡</h2>
 
