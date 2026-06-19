@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yudhagt&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Fullstack%20Web%20Developer&descAlignY=55" width="100%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7928CA,100:FF007F&height=220&section=header&text=Yudhagt&fontSize=65&fontColor=fff&fontAlignY=32&animation=twinkling&desc=Fullstack%20Web%20Developer&descAlignY=50&descSize=18">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7928CA,100:FF007F&height=220&section=header&text=Yudhagt&fontSize=65&fontColor=fff&fontAlignY=32&animation=twinkling&desc=Fullstack%20Web%20Developer&descAlignY=50&descSize=18" width="100%"/>
+</picture>
 
 <p align="center">
   <a href="https://instagram.com/Yudhagt_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
@@ -10,70 +11,145 @@
   <img src="https://komarev.com/ghpvc/?username=Yudhagt&color=blueviolet&style=flat-square&label=Visitors"/>
 </p>
 
----
-
-<h2 align="center">👋 Hello! I'm Dimas Yudha</h2>
-
 <p align="center">
-  <b>Fullstack Web Developer</b> from <b>Indonesia</b> 🇮🇩
-  <br/><br/>
-  🔭 Currently building web apps with <b>PHP</b> & <b>JavaScript</b><br/>
-  🌱 Learning <b>Laravel</b>, <b>Vue.js</b> & <b>Database Optimization</b><br/>
-  💡 Interested in <b>Web Development</b>, <b>UI/UX Design</b> & <b>Open Source</b><br/>
-  ⚡ Fun fact: Suka ngoding sambil dengerin musik 🎧
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=7928CA&center=true&vCenter=true&width=435&lines=Hi!+I'm+Dimas+Yudha+%F0%9F%91%8B;Fullstack+Web+Developer;PHP+%26+JavaScript+Lover;Open+Source+Enthusiast;Suka+Ngoding+Sambil+Musik%E2%9C%A8"/>
 </p>
+
+<details open>
+  <summary><h2>📋 About Me</h2></summary>
+
+<br>
+
+| | |
+|:---:|:---:|
+| 🌍 | **From** Indonesia |
+| 💼 | **Role** Fullstack Web Developer |
+| 🚀 | **Stack** PHP, JavaScript, HTML, CSS |
+| 🌱 | **Learning** Laravel, Vue.js & Database Optimization |
+| 💡 | **Interests** Web Dev, UI/UX Design, Open Source |
+| 🎵 | **Fun fact** Suka ngoding sambil dengerin musik |
+
+</details>
+
+<br>
 
 <h2 align="center">⚡ Tech Stack ⚡</h2>
 
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <b>Languages & Frameworks</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,python,java&perline=6"/>
+  <br/><br/>
+  <b>Tools & Platforms</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,supabase,apache,vscode&perline=6"/>
+  <br/><br/>
+  <b>Design & Creative</b><br/>
+  <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai&perline=4"/>
 </p>
+
+<br>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yudhagt&theme=radical&hide_border=true&show_icons=true&count_private=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudhagt&theme=radical&hide_border=true&layout=compact" height="160"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Yudhagt&theme=radical&hide_border=true&show_icons=true&count_private=false&bg_color=0D1117&title_color=7928CA&icon_color=FF007F&text_color=FFFFFF" height="170"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudhagt&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=7928CA&text_color=FFFFFF" height="170"/>
+      </td>
+    </tr>
+  </table>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Yudhagt&theme=radical&hide_border=true" width="70%"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yudhagt&theme=radical&hide_border=true&area=true&radius=8" width="95%"/>
+  <img src="https://streak-stats.demolab.com/?user=Yudhagt&theme=radical&hide_border=true&background=0D1117&stroke=7928CA&ring=FF007F&fire=FF007F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7928CA&sideLabels=FFFFFF&dates=888888" width="75%"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yudhagt&theme=redical&hide_border=true&area=true&radius=8&bg_color=0D1117&color=7928CA&line=FF007F&point=FFFFFF&area_color=7928CA" width="95%"/>
 </div>
+
+<br>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yudhagt&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-</p>
-
-<h2 align="center">📌 My Projects 📌</h2>
+<br>
 
 <p align="center">
-  <a href="https://github.com/Yudhagt/Sipora.Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yudhagt&repo=Sipora.Web&theme=radical&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Yudhagt/stb-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yudhagt&repo=stb-chatbot&theme=radical&hide_border=true"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yudhagt&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title_color=7928CA&icon_color=FF007F"/>
 </p>
+
+<br>
+
+<h2 align="center">📌 Pinned Projects 📌</h2>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📋 Sipora.Web</h3>
+        <p align="center">
+          <a href="https://github.com/Yudhagt/Sipora.Web">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yudhagt&repo=Sipora.Web&theme=radical&hide_border=true&bg_color=0D1117&title_color=7928CA&icon_color=FF007F&text_color=FFFFFF"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🤖 stb-chatbot</h3>
+        <p align="center">
+          <a href="https://github.com/Yudhagt/stb-chatbot">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yudhagt&repo=stb-chatbot&theme=radical&hide_border=true&bg_color=0D1117&title_color=7928CA&icon_color=FF007F&text_color=FFFFFF"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<br>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-  <br/><br/>
-  <sub>⭐ From <a href="https://github.com/Yudhagt">Yudhagt</a></sub>
-</div>
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  
+  <br/><br/>
+  
+  <table>
+    <tr>
+      <td>
+        <sub><b>📅 Total Commits (2026)</b></sub><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?color=7928CA&label=Commits&query=$[0].total&url=https://api.github.com/search/commits?q=author:Yudhagt&s=author-date&o=desc&per_page=1">
+      </td>
+      <td>
+        <sub><b>⭐ Repos</b></sub><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?color=FF007F&label=Public&query=public_repos&url=https://api.github.com/users/Yudhagt">
+      </td>
+      <td>
+        <sub><b>👥 Followers</b></sub><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?color=7928CA&label=Followers&query=followers&url=https://api.github.com/users/Yudhagt">
+      </td>
+      <td>
+        <sub><b>🔗 Following</b></sub><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?color=FF007F&label=Following&query=following&url=https://api.github.com/users/Yudhagt">
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  <sub>⭐ From <a href="https://github.com/Yudhagt">Yudhagt</a> · 🚀 Keep coding!</sub>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7928CA,100:FF007F&height=140&section=footer" width="100%"/>
 </div>
