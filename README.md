@@ -128,7 +128,7 @@
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
   </a>
   <br/><br/>
-  <video src="tiktok.mp4" width="300" controls muted loop></video>
+  <video src="https://raw.githubusercontent.com/Yudhagt/Yudhagt/main/tiktok.mp4" width="300" controls muted loop></video>
   <br/>
   <sub><a href="https://www.tiktok.com/@_iawa1">@_iawa1</a> · boleh tengil asal imo 🎵</sub>
 </p>
