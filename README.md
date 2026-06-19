@@ -16,18 +16,25 @@
 </p>
 
 <details open>
-  <summary><h2>📋 About Me</h2></summary>
+  <summary><h2 align="center">📋 About Me</h2></summary>
 
 <br>
 
-| | |
-|:---:|:---:|
-| 🌍 | **From** Indonesia |
-| 💼 | **Role** Fullstack Web Developer |
-| 🚀 | **Stack** PHP, JavaScript, HTML, CSS |
-| 🌱 | **Learning** Laravel, Vue.js & Database Optimization |
-| 💡 | **Interests** Web Dev, UI/UX Design, Open Source |
-| 🎵 | **Fun fact** Suka ngoding sambil dengerin musik |
+<div align="center">
+
+🌍 &nbsp;**From** Indonesia
+
+💼 &nbsp;**Role** Fullstack Web Developer
+
+🚀 &nbsp;**Stack** PHP, JavaScript, HTML, CSS
+
+🌱 &nbsp;**Learning** Laravel, Vue.js & Database Optimization
+
+💡 &nbsp;**Interests** Web Dev, UI/UX Design, Open Source
+
+🎵 &nbsp;**Fun fact** Suka ngoding sambil dengerin musik
+
+</div>
 
 </details>
 
