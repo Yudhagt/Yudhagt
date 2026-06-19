@@ -90,34 +90,6 @@
 
 <br>
 
-<h2 align="center">📌 Pinned Projects 📌</h2>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📋 Sipora.Web</h3>
-        <p align="center">
-          <a href="https://github.com/Yudhagt/Sipora.Web">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yudhagt&repo=Sipora.Web&theme=radical&hide_border=true&bg_color=0D1117&title_color=7928CA&icon_color=FF007F&text_color=FFFFFF"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🤖 stb-chatbot</h3>
-        <p align="center">
-          <a href="https://github.com/Yudhagt/stb-chatbot">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yudhagt&repo=stb-chatbot&theme=radical&hide_border=true&bg_color=0D1117&title_color=7928CA&icon_color=FF007F&text_color=FFFFFF"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 ---
 
 <br>
