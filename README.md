@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=7928CA&center=true&vCenter=true&width=435&lines=Hi!+I'm+Dimas+Yudha+%F0%9F%91%8B;Fullstack+Web+Developer;PHP+%26+JavaScript+Lover;Open+Source+Enthusiast;Suka+Ngoding+Sambil+Musik%E2%9C%A8"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=7928CA&center=true&vCenter=true&width=435&lines=Hi!+I'm+Dimas+Yudha+%F0%9F%91%8B;Fullstack+Web+Developer;PHP+%26+JavaScript+Lover;Open+Source+Enthusiast;Keep+Coding+%26+Stay+Curious%E2%9C%A8"/>
 </p>
 
 <details open>
@@ -32,7 +32,7 @@
 
 💡 &nbsp;**Interests** Web Dev, UI/UX Design, Open Source
 
-🎵 &nbsp;**Fun fact** Suka ngoding sambil dengerin musik
+🎵 &nbsp;**Fun fact** Keep coding & stay curious
 
 </div>
 
