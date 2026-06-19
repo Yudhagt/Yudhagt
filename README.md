@@ -119,6 +119,22 @@
 
 <br>
 
+<h2 align="center">🎬 TikTok Pinned</h2>
+
+<br>
+
+<p align="center">
+  <a href="https://www.tiktok.com/@_iawa1/video/7615582625129925904">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <a href="https://www.tiktok.com/@_iawa1/video/7615582625129925904">
+    <img src="https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oEA0KQf7mGeDfNbMAMFsKx9vWCcBwA8GCRSDfp~tplv-tiktokx-origin.image?dr=14575&x-expires=1782054000&x-signature=Kzn4DKFGoOJJSmgipQJR1961tN4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2" width="300" alt="boleh tengil asal imo"/>
+  </a>
+  <br/>
+  <sub><a href="https://www.tiktok.com/@_iawa1">@_iawa1</a> · boleh tengil asal imo 🎵</sub>
+</p>
+
 <br>
 
 ---
