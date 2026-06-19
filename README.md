@@ -49,10 +49,10 @@
   <img src="https://skillicons.dev/icons?i=js,php,html,css,python,java&perline=6"/>
   <br/><br/>
   <b>Tools & Platforms</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,supabase,apache,vscode&perline=6"/>
-  <br/><br/>
-  <b>Design & Creative</b><br/>
-  <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai&perline=4"/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,blender&perline=6"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 <br>
