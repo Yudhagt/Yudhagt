@@ -15,28 +15,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=7928CA&center=true&vCenter=true&width=435&lines=Hi!+I'm+Dimas+Yudha+%F0%9F%91%8B;Fullstack+Web+Developer;PHP+%26+JavaScript+Lover;Open+Source+Enthusiast;Keep+Coding+%26+Stay+Curious%E2%9C%A8"/>
 </p>
 
-<details open>
-  <summary><h2 align="center">📋 About Me</h2></summary>
+<h2 align="center">👋 Hello! I'm Dimas Yudha</h2>
 
-<br>
-
-<div align="center">
-
-🌍 &nbsp;**From** Indonesia
-
-💼 &nbsp;**Role** Fullstack Web Developer
-
-🚀 &nbsp;**Stack** PHP, JavaScript, HTML, CSS
-
-🌱 &nbsp;**Learning** Laravel, Vue.js & Database Optimization
-
-💡 &nbsp;**Interests** Web Dev, UI/UX Design, Open Source
-
-🎵 &nbsp;**Fun fact** Keep coding & stay curious
-
-</div>
-
-</details>
+<p align="center">
+  <b>Fullstack Web Developer</b> from <b>Indonesia</b> 🇮🇩
+  <br/><br/>
+  🔭 Building web apps with <b>PHP</b> & <b>JavaScript</b><br/>
+  🌱 Learning <b>Laravel</b>, <b>Vue.js</b> & <b>Database Optimization</b><br/>
+  💡 Into <b>Web Development</b>, <b>UI/UX Design</b> & <b>Open Source</b><br/>
+  ⚡ Keep coding & stay curious ✨
+</p>
 
 <br>
 
